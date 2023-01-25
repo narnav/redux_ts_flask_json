@@ -1,0 +1,138 @@
+[
+    {
+        "email": "a@a.com",
+        "name": "adam",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 90
+            }
+        ]
+    },
+    {
+        "email": "aa",
+        "name": "liraz",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 100
+            },
+            {
+                "name": "math",
+                "grade": 100
+            },
+            {
+                "name": "english",
+                "grade": 100
+            }
+        ]
+    },
+    {
+        "email": "aa",
+        "name": "artyom",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 1000
+            },
+            {
+                "name": "math",
+                "grade": 100
+            },
+            {
+                "name": "english",
+                "grade": 10
+            }
+        ]
+    },
+    {
+        "email": "aa",
+        "name": "aa",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 90
+            },
+            {
+                "name": "math",
+                "grade": 80
+            },
+            {
+                "name": "english",
+                "grade": 0
+            }
+        ]
+    },
+    {
+        "email": "",
+        "name": "adam",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 90
+            },
+            {
+                "name": "math",
+                "grade": 90
+            },
+            {
+                "name": "english",
+                "grade": 90
+            }
+        ]
+    },
+    {
+        "email": "",
+        "name": "adam",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 85
+            },
+            {
+                "name": "math",
+                "grade": 85
+            },
+            {
+                "name": "english",
+                "grade": 85
+            }
+        ]
+    },
+    {
+        "email": "aa",
+        "name": "liraz",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 100
+            },
+            {
+                "name": "math",
+                "grade": 100
+            },
+            {
+                "name": "english",
+                "grade": 100
+            }
+        ]
+    },
+    {
+        "email": "ava@rgil.mafia",
+        "name": "chavi",
+        "grades": [
+            {
+                "name": "computers",
+                "grade": 100
+            },
+            {
+                "name": "math",
+                "grade": 100
+            },
+            {
+                "name": "english",
+                "grade": 100
+            }
+        ]
+    }
+]
